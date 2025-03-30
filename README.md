@@ -1,3 +1,8 @@
+# SimPO-latest
+
+This repository is a copy of [princeton-nlp/SimPO](https://github.com/princeton-nlp/SimPO) and has been updated to work with the latest versions of Transformer and TRL libraries.
+
+
 # Simple Preference Optimization (SimPO)
 
 This repository contains the code and released models for our paper [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734). We propose a simpler and more effective preference optimization algorithm than DPO (Direct Preference Optimization) without using a reference model. SimPO outperforms DPO and its latest variants across AlpacaEval 2, MT-Bench, and Arena-Hard benchmarks under various settings. Please find all the released model checkpoints at [this link](https://huggingface.co/collections/princeton-nlp/simpo-66500741a5a066eb7d445889). 
